@@ -1,0 +1,20 @@
+SQL =>  Structure Query Language
+Data
+Database
+DBMS (Database Management System Tools)
+MySQL , SQL Server , Postgre , Oracle etc
+
+SQL works on Commands
+DDL - Data Definition Language
+	these command use to create SCHEMA
+		CREATE , ALTER , DROP
+DML - Data Manipulation Language
+	To manipulate the data
+		SELECT , INSERT , UPDATE , DELETE
+TCL - Transaction Control Language
+	To control the transaction or multiple query
+		TRANSACATION , ROLLBACK , COMMIT
+DCL - Data Control Language  ( DBA )
+	(Create users , roles , securities) 
+	GRANT REVOKE 
+-----------------------------------------------------------
